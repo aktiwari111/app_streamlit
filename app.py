@@ -5,5 +5,5 @@ st.write("""
 """)
 
 """
-## superstar aamir khan
+## Superstar Amir Khan
 """
