@@ -12,4 +12,4 @@ st.write('The current movie title is', title)
 
 
 eq = st.text_input('Calculator')
-st.write('The current number is '+  str(eq))
+st.write('The current number is '+ str(eval( str(eq))))
